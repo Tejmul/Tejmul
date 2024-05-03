@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/5927911.gif" />
+  <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif"/>
 </div>
 <h1 align="center">Hi 👋, I'm Tejmul Movin</h1>
 <h3 align="center">"B.Tech in CSE & AI Student at Newton School of Technology | Coding Enthusiast | Passionate about learning New things "</h3>
