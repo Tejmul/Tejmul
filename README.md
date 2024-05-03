@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img src="https://wallpaperaccess.com/full/5927911.gif" />
+</div>
 <h1 align="center">Hi 👋, I'm Tejmul Movin</h1>
 <h3 align="center">"B.Tech in CSE & AI Student at Newton School of Technology | Coding Enthusiast | Passionate about learning New things "</h3>
 
