@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejmul Movin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"B.Tech in CSE & AI Student at Newton School of Technology | Coding Enthusiast | Passionate about learning New things "</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejmul&label=Profile%20views&color=0e75b6&style=flat" alt="tejmul" /> </p>
 
