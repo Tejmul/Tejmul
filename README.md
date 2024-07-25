@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Unicart**
 
-- 🌱 I’m currently learning **DSA, WEB DEVELOPMENT, JAVA, C++, PYTHON**
+- 🌱 I’m currently learning **DSA, WEB DEVELOPMENT, JAVA, PYTHON**
 
 - 👯 I’m looking to collaborate on **GSOC contributions & Frontend Projects**
 
