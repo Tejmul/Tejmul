@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/home?lang=en" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/home?lang=en?logo=twitter&style=for-the-badge" alt="https://twitter.com/home?lang=en" /></a> </p>
 
-- 🔭 I’m currently working on **Unicart**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **DSA, WEB DEVELOPMENT, JAVA, PYTHON**
 
-- 👯 I’m looking to collaborate on **GSOC contributions & Frontend Projects**
+- 👯 I’m looking to collaborate on **GSOC contributions & Full Stack Projects**
 
 - 🤝 I’m looking for help with **Web development**
 
 - 📝 I regularly write articles on [https://www.instagram.com/_spylook_/?hl=en](https://www.instagram.com/_spylook_/?hl=en)
 
-- 💬 Ask me about **Programming & Frontend**
+- 💬 Ask me about **Programming & Full Stack**
 
 - 📫 How to reach me **tejmulmovin@gmail.com**
 
