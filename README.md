@@ -40,42 +40,6 @@ AI/ML Engineer and full-stack developer with **1+ year of professional experienc
 
 ---
 
-## 💼 Experience
-
-### 🔷 AI/ML Engineer — Maverick Secure LLC *(Founding Team)* | Jan 2026 – Feb 2026
-*Loxahatchee Groves, FL, USA · Remote*
-
-- Designed and deployed **serverless microservices on AWS** (Lambda, Cognito, DynamoDB) with RBAC; led full **GCP-to-AWS cloud migration** and set up CI/CD pipelines.
-- Optimized backend search with **Binary Search-based indexing & LLD improvements**, reducing API latency by **50%**; built REST APIs with Node.js & Express.js.
-- Solved a computer vision challenge: annotated **800+ images** and trained a **semantic segmentation model achieving 96% accuracy** using Roboflow.
-- Engineered a **2D-to-3D room measurement pipeline** — monocular images → point clouds → geometric wall/dimension extraction → 3D bounding boxes; improved YOLOv11 detection accuracy from **20% → 88%**.
-
-### 🔷 AI/ML Engineer Intern — TheSmartBridge | Jan 2025 – Jun 2025
-*Hyderabad, Telangana*
-
-- Built end-to-end **ML pipeline for student performance prediction** using Random Forest with feature engineering — **90% accuracy**.
-- Automated academic data workflows with **Agentic AI** (Python, LangGraph, AWS S3/Lambda), reducing manual effort by **70%**.
-- Developed a **RAG chatbot** using vector embeddings, FAISS, and LoRA fine-tuning on an LLM, cutting support queries by **50%**.
-- Conducted **AWS cloud workshops for 70+ learners**; mentored **105+ students** on AI/ML; awarded **5-Star Trainer** recognition.
-
----
-
-## 🛠️ Projects
-
-### 🔐 [AssuredGig](https://assuredgig.com) — *Next.js · TypeScript · Django · PostgreSQL · AWS EC2 · Tailwind CSS* | 2025
-- Co-founded and engineered a **secure freelance platform** with escrow-protected payments, verified contracts, and guaranteed earnings.
-- Deployed backend on **AWS EC2**, database on **Aiven**, frontend on **Vercel**; built responsive UI with Magic UI & Aceternity components.
-- Grew community to **1,000+ Discord members**.
-
-### 🚦 [Smart Traffic Anomaly Detection](https://github.com/tejmul) — *Python · PyTorch · ViT · OpenCV · Isolation Forest* | 2025
-- Developed a **real-time anomaly detection system** using Vision Transformers (ViT) and Isolation Forest for accidents & congestion in live traffic streams.
-- Automated processing of **14,000+ video frames** — extraction, feature engineering, anomaly scoring, structured JSON reports.
-- Fine-tuned ViT on a custom dataset; fully automated **inference-to-report pipeline** with no manual intervention.
-
-### 🌐 [Portfolio Website](https://github.com/tejmul) — *Next.js · TypeScript · Three.js · Tailwind CSS · Aceternity UI* | 2024
-- Designed and built a dynamic portfolio with **interactive 3D elements** using Three.js and Aceternity components.
-
----
 
 ## 🧰 Technical Skills
 
