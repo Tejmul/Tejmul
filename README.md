@@ -33,7 +33,7 @@ AI/ML Engineer and full-stack developer with **1+ year of professional experienc
 - 🎓 **B.Tech in AI & Machine Learning** @ Newton School of Technology, Rishihood University (2023–2027)
 - 💼 Previously **AI/ML Engineer @ Maverick Secure LLC** (Founding Team, Remote – FL, USA)
 - 🌱 Currently building in **Generative AI, Computer Vision & Full-Stack**
-- 🏗️ Co-founder of **[AssuredGig](https://assuredgig.com)** — secure freelance platform with 1,000+ Discord members
+- 🏗️ Founder of **[AssuredGig](https://assuredgig.com)** — secure freelance platform with 1,000+ Discord members
 - 📸 Content creator with **75,000+ Instagram views** | "Built in Public" series
 - ⚽ **2× National-level football player** | Captain, Under-14 state team
 - 📧 Reach me at **tejmulmovin@gmail.com**
