@@ -37,7 +37,7 @@ AI Product Engineer who ships **production agentic systems** end to end. Over **
 - 🌍 Founding Member of **MoreThanMe (NGO)**: leading the tech team
 - 📸 Content creator with **75,000+ Instagram views** | "Build in Public" series
 - ⚽ **2× National-level football player** | Captain, Under-14 state team
-- 📧 Reach me at **tejmulmovin@gmail.com**
+- 📧 Reach me at **tejmulmovin9@gmail.com**
 
 ---
 
