@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-AI Product Engineer who ships **production agentic systems** end to end. Over **4 internships** with startups in the **UK and US** (including a **YC P26** company), I've built multi-agent pipelines, fine-tuned LLMs, run serverless migrations that cut infra costs by **95%**, and shipped computer vision models, plus **10+ freelance projects**.
+AI Product Engineer who ships **production agentic systems** end to end. Over **4 internships** with startups in the **UK and US** (including a **YC P26** company), I've built multi-agent pipelines, fine-tuned LLMs, run serverless migrations that cut infra costs by **95%**, and shipped computer vision models. As a freelancer, I've built projects for **multiple organisations across the UK and US**, generating **6-figure revenue**.
 
 - 🎓 **B.Tech in Computer Science & AI** @ Newton School of Technology, Rishihood University (2023–2027)
 - 💼 Recently **AI Product Engineer Intern @ MVRX Labs (YC P26)** and **AI Lead Intern @ eWealth Tech LLC**
@@ -138,7 +138,7 @@ AI Product Engineer who ships **production agentic systems** end to end. Over **
 | 🚀 **Agentic Systems** | Shipped **3 production agentic systems solo** for a YC-backed GTM agency |
 | 🏗️ **Founder, AssuredGig** | Launched a freelance marketplace + global developer community enabling cross-border collaboration |
 | 🌍 **MoreThanMe (NGO)** | Founding member · leading the tech side and managing the team |
-| 💻 **Freelancing** | Delivered **10+ production-grade projects** across web development and AI/ML |
+| 💻 **Freelancing** | Built production web and AI/ML projects for **multiple organisations in the UK & US** · **6-figure revenue** generated |
 | 📸 **Content Creator** | **75,000+ Instagram views** · Tech & productivity content · "Build in Public" series |
 | ⚽ **Sports** | **2× National-level football player** · Captain, Under-14 state team |
 
